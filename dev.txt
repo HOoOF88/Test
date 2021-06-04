@@ -10,8 +10,4 @@ someone add
 
 4
 5
-<<<<<<< HEAD
-hh
-=======
-someone add
->>>>>>> 294957a2c19e7b342cd480a242cc571cf7f2756a
+7
